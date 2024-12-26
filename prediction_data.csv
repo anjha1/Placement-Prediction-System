@@ -1,0 +1,501 @@
+CPI,English_Speaking_Skills,Grammar_Skills,Coding_Skills,Total_No_of_Projects,Project_Level,Internship_Level,Certification_Level,Total_No_of_Internships,Total_No_of_Certifications,Programming_Skills,Field_of_Study,Total_No_of_LeetCode_Questions_Solved,Total_No_of_Questions_Other_Platform,Round_1_Technical,Round_2_Essay_Writing,Round_3_Gaming,Round_4_Problem_Solving,Round_5_Speaking,Round_6_Interview,Placed
+6.09,10,9,8,7,Intermediate,None,Basic,1,2,1,Electronics,187,167,Pass,Fail,Pass,Pass,Pass,Pass,No
+7.38,1,5,2,20,Intermediate,None,None,0,0,1,Electronics,88,323,Pass,Pass,Fail,Pass,Pass,Fail,Yes
+9.36,3,2,2,3,Beginner,None,Professional,3,11,7,Electronics,411,126,Pass,Pass,Fail,Fail,Pass,Fail,No
+6.29,4,1,6,12,Intermediate,None,Expert,1,7,6,Civil,137,232,Fail,Pass,Pass,Fail,Pass,Fail,No
+6.27,6,7,3,12,Advanced,None,None,7,7,10,Electronics,139,236,Pass,Fail,Fail,Pass,Pass,Pass,No
+6.19,2,10,6,18,Intermediate,Advanced,Basic,1,13,5,IT,148,485,Pass,Fail,Pass,Pass,Fail,Fail,No
+7.58,8,7,4,20,Beginner,Beginner,Expert,5,8,3,Computer Science,317,257,Pass,Pass,Pass,Pass,Pass,Pass,Yes
+8.79,7,1,6,11,Advanced,None,Professional,0,11,6,Civil,485,346,Pass,Pass,Fail,Pass,Pass,Pass,No
+8.15,7,2,3,10,Beginner,Beginner,Basic,5,12,2,Computer Science,194,323,Pass,Pass,Pass,Pass,Pass,Fail,No
+6.7,10,5,2,17,Beginner,None,None,9,8,1,Computer Science,228,11,Pass,Fail,Fail,Fail,Pass,Pass,No
+6.74,4,3,1,5,Beginner,None,Professional,8,14,3,IT,13,456,Pass,Fail,Pass,Pass,Pass,Fail,Yes
+6.65,10,4,8,2,Beginner,Beginner,Expert,8,1,1,Electronics,217,411,Fail,Pass,Pass,Pass,Pass,Pass,No
+6.54,4,3,9,6,Intermediate,Beginner,Expert,7,13,6,Computer Science,5,117,Pass,Pass,Pass,Pass,Pass,Pass,Yes
+7.27,6,1,9,2,Beginner,Beginner,Professional,1,3,9,Civil,294,332,Fail,Fail,Pass,Fail,Pass,Fail,No
+8.86,1,6,10,10,Advanced,Advanced,None,6,1,7,IT,445,125,Pass,Pass,Fail,Fail,Pass,Fail,Yes
+6.97,3,3,6,11,Intermediate,Advanced,Professional,1,10,7,Mechanical,140,412,Fail,Fail,Pass,Pass,Fail,Pass,No
+8.16,5,8,3,1,Advanced,None,Professional,8,6,4,Electronics,328,497,Pass,Pass,Fail,Fail,Fail,Pass,Yes
+7.02,8,2,5,18,Advanced,Beginner,None,7,7,10,Mechanical,475,215,Fail,Pass,Fail,Fail,Pass,Fail,No
+6.88,4,2,2,20,Advanced,None,Expert,8,6,5,IT,491,361,Pass,Pass,Fail,Pass,Pass,Pass,Yes
+9.02,1,9,9,6,Beginner,Intermediate,Professional,3,14,9,Electronics,394,340,Pass,Pass,Pass,Pass,Pass,Fail,No
+9.35,6,10,7,6,Beginner,Advanced,Expert,4,1,8,Civil,437,244,Pass,Fail,Pass,Pass,Pass,Fail,Yes
+9.38,9,7,8,15,Beginner,Intermediate,None,7,0,3,Computer Science,290,455,Pass,Pass,Pass,Fail,Pass,Fail,No
+8.29,6,5,6,14,Intermediate,Beginner,Basic,8,4,6,IT,163,121,Fail,Pass,Pass,Fail,Pass,Fail,No
+9.06,3,5,3,3,Advanced,Beginner,None,0,6,9,Electronics,432,400,Pass,Fail,Pass,Fail,Pass,Fail,No
+9.27,5,5,6,2,Beginner,Intermediate,Expert,0,12,2,Electronics,333,442,Pass,Pass,Fail,Pass,Pass,Fail,Yes
+9.77,6,8,6,5,Beginner,Advanced,Expert,5,5,1,Civil,474,413,Pass,Pass,Fail,Fail,Fail,Fail,Yes
+7.7,3,6,8,12,Intermediate,None,None,0,3,10,Computer Science,28,354,Fail,Fail,Pass,Pass,Pass,Fail,Yes
+9.45,8,10,7,3,Intermediate,None,None,1,8,2,Computer Science,475,221,Fail,Pass,Fail,Fail,Pass,Fail,Yes
+9.99,5,2,10,11,Intermediate,Advanced,Professional,2,3,9,Computer Science,94,175,Pass,Pass,Fail,Fail,Pass,Pass,Yes
+6.91,9,8,3,14,Intermediate,None,Basic,10,15,10,IT,440,374,Pass,Pass,Pass,Pass,Pass,Fail,Yes
+9.43,6,7,4,10,Advanced,Beginner,Expert,6,11,9,Electronics,165,87,Fail,Fail,Pass,Pass,Pass,Pass,Yes
+6.93,9,9,2,7,Intermediate,Beginner,Expert,7,15,7,Mechanical,326,246,Fail,Pass,Fail,Pass,Pass,Fail,Yes
+6.03,3,4,6,19,Beginner,Beginner,None,3,14,10,IT,300,394,Pass,Pass,Fail,Fail,Pass,Fail,Yes
+9.08,8,7,4,8,Intermediate,None,None,5,12,7,Civil,324,455,Pass,Pass,Pass,Pass,Pass,Fail,Yes
+6.53,3,9,6,9,Beginner,None,None,4,11,3,IT,114,104,Pass,Pass,Fail,Pass,Pass,Fail,No
+6.58,7,8,8,4,Advanced,Beginner,Basic,2,1,10,Mechanical,217,452,Fail,Fail,Pass,Pass,Fail,Fail,Yes
+7.99,8,2,9,17,Intermediate,Intermediate,Expert,8,2,8,Mechanical,205,450,Fail,Fail,Fail,Fail,Pass,Pass,No
+8.85,8,1,7,16,Beginner,None,Expert,0,1,1,Computer Science,352,205,Pass,Fail,Fail,Pass,Fail,Fail,No
+6.96,5,6,9,4,Intermediate,Intermediate,None,0,9,7,Electronics,53,366,Pass,Pass,Pass,Fail,Fail,Fail,Yes
+8.69,3,4,1,5,Advanced,None,Expert,1,6,10,Mechanical,272,281,Pass,Pass,Fail,Pass,Pass,Fail,No
+6.28,7,9,2,13,Advanced,Beginner,Expert,9,11,10,Computer Science,120,440,Fail,Fail,Pass,Fail,Fail,Pass,No
+6.47,8,3,10,10,Advanced,Advanced,Basic,2,7,2,Electronics,495,468,Fail,Fail,Pass,Pass,Pass,Pass,Yes
+9.05,6,3,10,4,Intermediate,None,None,5,9,3,IT,62,486,Pass,Fail,Pass,Pass,Pass,Pass,No
+6.69,10,3,8,18,Advanced,Advanced,Basic,5,14,7,Civil,192,265,Fail,Fail,Pass,Pass,Pass,Fail,No
+6.83,8,9,1,2,Advanced,Intermediate,None,6,15,10,IT,27,206,Pass,Fail,Fail,Fail,Pass,Fail,Yes
+7.02,3,9,6,6,Advanced,Advanced,Professional,1,15,4,Electronics,11,396,Fail,Pass,Pass,Pass,Fail,Pass,No
+6.18,9,7,4,4,Advanced,Intermediate,Basic,10,10,3,IT,184,66,Pass,Pass,Pass,Pass,Fail,Fail,Yes
+8.88,9,4,9,8,Advanced,Beginner,Basic,7,15,7,Computer Science,117,78,Pass,Pass,Fail,Pass,Pass,Fail,No
+9.93,7,8,10,12,Beginner,Intermediate,Expert,9,9,9,Computer Science,6,35,Fail,Fail,Pass,Pass,Fail,Pass,No
+7.78,4,2,7,17,Advanced,None,None,5,13,4,Computer Science,27,350,Fail,Fail,Fail,Fail,Pass,Fail,No
+8.61,9,7,5,13,Intermediate,None,Basic,0,4,4,Electronics,62,201,Pass,Pass,Pass,Pass,Fail,Pass,No
+9.42,4,3,2,20,Beginner,None,None,2,6,2,Computer Science,115,202,Pass,Pass,Fail,Fail,Pass,Fail,No
+9.04,6,5,10,1,Intermediate,Beginner,Professional,4,15,7,Civil,404,486,Fail,Pass,Fail,Pass,Pass,Fail,Yes
+7.42,5,3,7,11,Advanced,Beginner,Professional,9,12,4,Civil,187,139,Fail,Pass,Pass,Fail,Fail,Pass,No
+7.29,6,3,9,13,Advanced,Intermediate,Expert,7,5,9,Computer Science,263,473,Fail,Fail,Pass,Pass,Fail,Pass,Yes
+6.15,3,2,5,5,Advanced,None,None,4,1,5,IT,24,3,Pass,Pass,Pass,Pass,Pass,Pass,No
+8.14,3,1,9,0,Beginner,Beginner,Basic,2,0,6,Computer Science,71,127,Fail,Fail,Pass,Pass,Fail,Pass,No
+8.05,2,9,7,7,Beginner,Beginner,Professional,7,7,6,IT,108,14,Pass,Fail,Pass,Fail,Pass,Pass,Yes
+8.5,8,8,1,10,Intermediate,Beginner,Professional,1,12,2,Civil,162,257,Fail,Fail,Pass,Pass,Fail,Pass,Yes
+7.72,9,7,4,17,Beginner,Beginner,None,0,6,10,Civil,126,487,Fail,Pass,Pass,Fail,Pass,Pass,Yes
+8.72,2,9,7,1,Intermediate,Advanced,None,9,15,4,Computer Science,79,476,Pass,Pass,Pass,Pass,Pass,Pass,Yes
+9.84,9,1,10,4,Advanced,Intermediate,Basic,3,14,4,Civil,53,27,Pass,Fail,Pass,Pass,Pass,Pass,Yes
+9.68,2,6,9,3,Intermediate,Intermediate,Expert,2,6,8,Computer Science,488,71,Pass,Fail,Pass,Pass,Fail,Pass,Yes
+7.12,4,2,6,11,Advanced,None,Basic,5,0,2,Computer Science,22,470,Pass,Pass,Pass,Pass,Pass,Fail,No
+8.21,4,2,7,16,Beginner,Advanced,None,4,6,10,Computer Science,494,271,Fail,Pass,Pass,Pass,Pass,Pass,No
+9.12,10,7,1,2,Intermediate,Advanced,Expert,4,5,5,Computer Science,379,131,Pass,Pass,Pass,Pass,Pass,Fail,Yes
+6.72,10,5,1,9,Beginner,Intermediate,None,6,2,3,Computer Science,194,457,Pass,Pass,Pass,Fail,Fail,Pass,Yes
+9.04,4,6,6,12,Advanced,Advanced,None,6,15,2,Electronics,369,462,Pass,Pass,Pass,Pass,Pass,Pass,Yes
+7.84,8,9,5,1,Advanced,Beginner,Professional,9,12,5,Civil,333,265,Fail,Pass,Fail,Pass,Pass,Pass,Yes
+6.21,3,3,4,0,Advanced,Advanced,None,0,7,4,Mechanical,224,413,Pass,Pass,Fail,Fail,Pass,Pass,Yes
+8.77,2,4,6,14,Beginner,None,None,7,1,10,IT,372,371,Pass,Fail,Fail,Fail,Fail,Fail,No
+6.7,2,9,3,11,Beginner,Beginner,Basic,8,10,9,Electronics,446,418,Pass,Fail,Pass,Fail,Fail,Fail,No
+9.84,1,7,10,19,Advanced,Beginner,Expert,2,11,3,Computer Science,385,289,Pass,Pass,Fail,Pass,Fail,Fail,No
+8.46,5,9,2,0,Beginner,Advanced,Professional,6,10,8,Electronics,57,203,Pass,Pass,Pass,Pass,Fail,Pass,Yes
+8.27,8,8,4,6,Intermediate,Beginner,Expert,8,11,7,Mechanical,469,419,Pass,Pass,Pass,Pass,Pass,Pass,Yes
+7.37,9,3,10,9,Advanced,None,Professional,10,11,8,Electronics,275,78,Pass,Fail,Pass,Fail,Pass,Pass,No
+6.07,4,7,3,15,Advanced,None,Basic,0,2,1,Mechanical,125,223,Pass,Fail,Pass,Pass,Pass,Fail,No
+6.5,3,9,9,3,Advanced,Advanced,Basic,8,3,1,Computer Science,419,408,Fail,Pass,Pass,Pass,Pass,Fail,Yes
+8.07,8,2,2,12,Beginner,Intermediate,Basic,2,14,6,Mechanical,139,416,Fail,Pass,Pass,Fail,Pass,Pass,Yes
+9.84,10,9,8,8,Intermediate,Advanced,Expert,5,13,10,Civil,314,403,Pass,Pass,Pass,Pass,Fail,Pass,Yes
+6.85,10,8,10,7,Intermediate,Intermediate,None,9,1,3,Civil,442,263,Pass,Fail,Pass,Pass,Pass,Pass,Yes
+6.14,2,4,8,20,Intermediate,None,None,4,5,1,Electronics,148,379,Pass,Fail,Pass,Pass,Pass,Pass,Yes
+9.01,6,1,2,3,Intermediate,Advanced,Basic,8,9,4,Civil,402,172,Pass,Pass,Pass,Pass,Fail,Pass,No
+7.88,9,5,4,3,Beginner,None,Basic,0,6,2,Computer Science,22,390,Fail,Pass,Pass,Fail,Fail,Fail,Yes
+6.27,3,8,9,6,Intermediate,None,None,2,9,6,Computer Science,5,117,Pass,Pass,Fail,Pass,Pass,Fail,Yes
+9.62,8,3,3,10,Advanced,None,Expert,0,9,4,Mechanical,216,102,Fail,Fail,Pass,Pass,Pass,Fail,No
+8.6,4,8,2,1,Advanced,Advanced,None,1,3,6,Computer Science,290,199,Pass,Pass,Fail,Pass,Pass,Pass,No
+8.1,6,3,8,13,Beginner,Advanced,Expert,1,11,3,Civil,62,297,Pass,Pass,Pass,Fail,Pass,Pass,No
+8.03,6,4,4,19,Advanced,None,Basic,9,11,8,IT,263,291,Pass,Pass,Pass,Pass,Fail,Fail,Yes
+8.1,5,4,7,10,Beginner,Advanced,None,10,7,10,IT,192,225,Pass,Fail,Pass,Pass,Fail,Pass,Yes
+9.1,8,5,9,15,Beginner,Intermediate,Expert,8,6,3,Mechanical,163,172,Fail,Pass,Fail,Pass,Pass,Fail,No
+9.45,9,2,3,6,Advanced,Intermediate,None,2,12,3,Computer Science,215,456,Fail,Fail,Fail,Fail,Pass,Pass,No
+7.96,5,4,5,10,Advanced,Advanced,None,10,15,7,Mechanical,168,185,Fail,Fail,Pass,Pass,Pass,Fail,No
+7.85,10,10,9,8,Beginner,Advanced,Professional,9,6,2,Electronics,482,107,Fail,Pass,Fail,Fail,Pass,Pass,No
+9.21,10,6,4,5,Advanced,None,Expert,10,0,4,Electronics,387,362,Fail,Pass,Fail,Pass,Fail,Pass,No
+9.27,9,2,9,0,Intermediate,Beginner,Basic,7,6,9,Mechanical,283,189,Fail,Pass,Pass,Fail,Pass,Fail,Yes
+7.27,5,10,4,18,Advanced,Advanced,Professional,4,10,6,Mechanical,62,23,Pass,Fail,Fail,Pass,Pass,Pass,Yes
+7.26,5,1,8,1,Beginner,Intermediate,Expert,9,15,9,Computer Science,107,202,Pass,Pass,Pass,Pass,Pass,Pass,Yes
+9.34,2,6,2,16,Advanced,Advanced,Professional,7,4,1,Civil,162,259,Pass,Pass,Fail,Pass,Fail,Pass,Yes
+8.8,8,8,4,15,Advanced,Advanced,Basic,7,11,4,IT,211,493,Pass,Pass,Pass,Fail,Pass,Fail,No
+9.47,9,1,1,14,Beginner,Advanced,Expert,0,8,2,Computer Science,161,246,Pass,Pass,Pass,Fail,Pass,Fail,Yes
+9.81,7,3,10,17,Advanced,None,Expert,3,4,4,Mechanical,278,68,Pass,Pass,Fail,Pass,Pass,Fail,Yes
+6.98,9,3,5,5,Beginner,Beginner,Professional,5,10,4,IT,79,339,Pass,Pass,Pass,Pass,Fail,Fail,No
+8.15,5,2,5,4,Beginner,Intermediate,Expert,10,7,2,Civil,27,440,Pass,Pass,Fail,Pass,Pass,Fail,Yes
+8.83,5,5,9,1,Advanced,Intermediate,Expert,9,2,3,Computer Science,50,478,Fail,Pass,Pass,Pass,Pass,Pass,Yes
+8.73,5,3,5,16,Advanced,Intermediate,Professional,10,2,9,Electronics,373,452,Pass,Fail,Fail,Fail,Fail,Fail,Yes
+9.91,10,8,1,14,Beginner,Advanced,Expert,4,4,9,IT,205,162,Pass,Pass,Pass,Fail,Pass,Pass,Yes
+7.71,9,9,8,0,Intermediate,Beginner,None,8,10,5,Mechanical,441,299,Pass,Fail,Fail,Fail,Pass,Fail,No
+8.46,9,1,2,14,Advanced,Advanced,None,8,10,5,Electronics,32,40,Pass,Fail,Pass,Pass,Fail,Fail,Yes
+7.62,2,3,9,19,Beginner,Beginner,Professional,1,13,2,Electronics,69,119,Pass,Pass,Pass,Pass,Pass,Pass,No
+6.22,5,2,9,6,Intermediate,Advanced,Basic,2,12,1,IT,60,31,Fail,Pass,Pass,Pass,Fail,Fail,Yes
+9.21,10,3,2,15,Intermediate,Beginner,None,3,4,9,Computer Science,193,296,Pass,Pass,Pass,Pass,Pass,Fail,Yes
+8.41,4,1,1,11,Intermediate,Intermediate,Basic,10,8,5,Electronics,36,242,Pass,Pass,Pass,Fail,Pass,Fail,Yes
+7.49,7,6,9,4,Beginner,Beginner,None,10,8,2,IT,435,225,Pass,Pass,Pass,Pass,Pass,Pass,No
+9.01,5,2,4,0,Beginner,None,Basic,2,5,9,IT,471,105,Fail,Pass,Fail,Pass,Pass,Fail,No
+7.0,2,5,3,3,Intermediate,None,None,1,3,10,Mechanical,499,425,Pass,Fail,Fail,Fail,Fail,Fail,No
+7.02,3,2,8,15,Beginner,Intermediate,None,4,13,4,Civil,39,39,Pass,Fail,Fail,Pass,Pass,Fail,Yes
+8.39,10,10,6,0,Advanced,Intermediate,Professional,5,5,3,Civil,227,486,Pass,Pass,Pass,Pass,Pass,Fail,Yes
+8.83,2,10,2,8,Advanced,Advanced,Basic,5,11,6,Electronics,176,466,Pass,Fail,Pass,Pass,Pass,Pass,No
+9.08,1,7,6,16,Beginner,Beginner,Professional,5,6,7,Electronics,243,176,Pass,Pass,Pass,Pass,Pass,Fail,Yes
+6.74,3,1,4,15,Intermediate,Beginner,Basic,8,3,2,Mechanical,186,344,Pass,Fail,Pass,Pass,Pass,Fail,Yes
+8.83,9,5,3,11,Beginner,Beginner,Professional,9,15,6,Electronics,1,331,Pass,Fail,Pass,Pass,Pass,Fail,Yes
+8.39,2,10,2,8,Advanced,None,Basic,10,7,3,IT,363,427,Pass,Pass,Pass,Pass,Pass,Fail,No
+6.74,2,1,1,12,Intermediate,None,Professional,2,4,2,Mechanical,450,100,Fail,Fail,Pass,Pass,Pass,Pass,No
+7.35,4,4,4,1,Advanced,Beginner,Expert,5,2,1,Computer Science,129,394,Fail,Pass,Pass,Pass,Pass,Pass,No
+8.98,10,10,8,20,Advanced,Advanced,Professional,10,8,6,Electronics,379,49,Fail,Pass,Fail,Pass,Pass,Fail,Yes
+8.93,3,7,9,3,Intermediate,Intermediate,Professional,7,12,6,IT,299,364,Pass,Fail,Fail,Pass,Pass,Pass,Yes
+8.95,2,8,4,2,Intermediate,Beginner,Basic,5,11,8,Mechanical,323,314,Pass,Pass,Fail,Pass,Pass,Pass,Yes
+6.68,6,8,10,15,Beginner,Intermediate,None,1,2,10,Computer Science,468,113,Pass,Fail,Fail,Fail,Pass,Fail,No
+8.04,1,6,3,14,Beginner,Beginner,Professional,7,1,6,Mechanical,178,433,Pass,Fail,Fail,Fail,Pass,Pass,Yes
+7.78,4,5,2,10,Intermediate,Beginner,Professional,3,3,2,Electronics,326,342,Fail,Pass,Fail,Fail,Fail,Pass,Yes
+6.84,9,4,6,2,Intermediate,Beginner,Professional,7,9,9,IT,256,325,Pass,Pass,Fail,Pass,Pass,Fail,No
+8.52,3,10,3,15,Advanced,Intermediate,Basic,6,10,3,Electronics,339,408,Pass,Fail,Pass,Fail,Fail,Pass,No
+9.94,10,9,10,10,Advanced,Beginner,None,6,14,2,Civil,219,23,Pass,Pass,Pass,Fail,Pass,Pass,Yes
+7.4,3,2,6,0,Intermediate,Intermediate,None,0,12,3,Civil,20,2,Fail,Pass,Fail,Pass,Fail,Pass,No
+6.2,6,10,3,1,Advanced,Advanced,Basic,9,6,10,Computer Science,225,367,Pass,Pass,Fail,Pass,Pass,Pass,Yes
+6.22,9,6,1,8,Beginner,Advanced,Expert,10,11,10,IT,380,179,Pass,Fail,Fail,Pass,Pass,Pass,Yes
+7.34,8,8,3,16,Beginner,Beginner,Expert,6,3,7,Civil,230,223,Pass,Fail,Fail,Fail,Fail,Fail,Yes
+6.61,4,8,10,2,Beginner,Intermediate,Basic,9,11,7,Civil,326,362,Pass,Pass,Pass,Fail,Pass,Pass,No
+8.11,1,5,9,14,Intermediate,Intermediate,None,1,14,5,IT,326,407,Pass,Fail,Fail,Fail,Pass,Pass,No
+7.68,10,9,10,6,Beginner,None,Basic,2,2,6,Computer Science,441,212,Fail,Pass,Fail,Fail,Pass,Pass,Yes
+8.95,4,7,8,10,Intermediate,Beginner,Professional,2,15,6,IT,364,75,Pass,Pass,Pass,Pass,Pass,Fail,No
+8.99,5,3,9,17,Beginner,Advanced,None,5,7,2,Electronics,162,437,Fail,Fail,Pass,Fail,Fail,Fail,Yes
+6.7,2,5,2,6,Intermediate,None,Basic,3,11,1,Electronics,451,367,Fail,Pass,Pass,Fail,Fail,Fail,Yes
+6.83,1,8,7,19,Beginner,None,Expert,3,8,6,Electronics,70,223,Pass,Pass,Pass,Pass,Fail,Pass,Yes
+8.93,2,1,7,7,Advanced,Beginner,None,10,7,1,Computer Science,471,354,Pass,Pass,Pass,Pass,Fail,Fail,Yes
+8.77,10,2,4,5,Beginner,Advanced,Professional,4,9,7,Mechanical,198,447,Pass,Pass,Pass,Pass,Pass,Fail,No
+6.29,3,2,2,16,Intermediate,Intermediate,Expert,6,15,8,Electronics,263,437,Pass,Pass,Pass,Pass,Pass,Fail,No
+8.61,8,6,6,13,Intermediate,None,Professional,0,8,7,Civil,322,320,Pass,Pass,Pass,Fail,Pass,Fail,No
+9.88,7,2,8,5,Advanced,Intermediate,Professional,0,9,6,Mechanical,50,54,Pass,Pass,Pass,Fail,Pass,Pass,Yes
+6.35,2,5,10,2,Beginner,None,None,2,2,6,Electronics,27,237,Fail,Pass,Fail,Pass,Pass,Fail,No
+7.21,7,10,9,11,Advanced,Intermediate,None,4,11,7,Computer Science,458,315,Pass,Fail,Fail,Pass,Pass,Pass,No
+8.69,1,10,2,3,Intermediate,Intermediate,Expert,7,10,2,Mechanical,375,328,Pass,Pass,Pass,Fail,Pass,Pass,No
+6.17,4,4,1,5,Advanced,None,Professional,5,4,10,IT,384,146,Pass,Pass,Fail,Pass,Fail,Fail,No
+8.14,3,4,2,9,Intermediate,Intermediate,Basic,6,7,8,Civil,81,305,Pass,Fail,Pass,Fail,Pass,Pass,Yes
+9.78,1,9,4,9,Intermediate,None,Professional,4,15,4,Civil,273,381,Fail,Pass,Pass,Pass,Pass,Pass,No
+6.09,9,1,4,11,Intermediate,Intermediate,Basic,6,8,9,Civil,275,208,Fail,Pass,Fail,Pass,Fail,Fail,Yes
+9.31,1,6,10,0,Intermediate,Intermediate,Expert,2,10,1,Computer Science,388,318,Pass,Pass,Pass,Fail,Pass,Fail,No
+6.56,1,1,9,14,Advanced,Intermediate,Expert,7,8,4,Computer Science,335,327,Pass,Pass,Pass,Pass,Fail,Fail,No
+7.29,5,4,7,20,Beginner,Intermediate,Basic,0,3,3,Mechanical,88,435,Pass,Pass,Pass,Pass,Pass,Fail,Yes
+7.74,9,5,8,3,Beginner,Advanced,Basic,9,1,9,Mechanical,372,202,Pass,Fail,Fail,Fail,Pass,Pass,Yes
+8.68,10,10,8,4,Advanced,None,None,9,5,1,Mechanical,81,252,Pass,Pass,Pass,Pass,Fail,Fail,No
+6.47,6,6,5,9,Advanced,Beginner,Expert,1,8,2,Mechanical,155,29,Pass,Fail,Pass,Pass,Pass,Fail,No
+6.63,5,2,5,13,Advanced,Advanced,Professional,6,3,3,Computer Science,451,284,Pass,Pass,Fail,Pass,Pass,Pass,No
+8.6,4,6,8,20,Intermediate,Intermediate,Professional,1,3,2,Electronics,475,282,Fail,Fail,Fail,Fail,Fail,Pass,No
+7.44,9,10,4,1,Beginner,Advanced,Professional,6,4,10,IT,123,45,Pass,Fail,Fail,Pass,Fail,Fail,No
+8.21,8,9,6,8,Intermediate,Intermediate,None,5,12,3,Computer Science,401,379,Pass,Pass,Fail,Pass,Pass,Pass,No
+9.09,3,5,1,19,Intermediate,Beginner,Professional,2,8,4,Computer Science,346,447,Pass,Pass,Pass,Pass,Fail,Pass,No
+7.82,8,8,6,16,Beginner,Beginner,Professional,2,2,5,Electronics,478,465,Fail,Fail,Pass,Fail,Fail,Fail,Yes
+8.49,6,7,8,15,Beginner,Beginner,Professional,9,4,10,Electronics,196,230,Pass,Pass,Pass,Pass,Fail,Pass,Yes
+8.06,3,2,3,10,Beginner,Beginner,Expert,9,5,6,Civil,456,176,Pass,Pass,Pass,Pass,Pass,Pass,Yes
+8.78,7,3,2,4,Beginner,None,None,0,5,9,Electronics,237,466,Pass,Pass,Fail,Pass,Fail,Pass,No
+8.19,2,3,3,1,Beginner,Beginner,Expert,10,8,7,Computer Science,177,234,Pass,Fail,Pass,Pass,Pass,Pass,Yes
+8.5,10,6,5,17,Advanced,None,Basic,2,6,10,IT,323,333,Fail,Fail,Pass,Fail,Pass,Pass,No
+9.97,10,10,6,14,Beginner,Beginner,Basic,9,13,10,IT,345,11,Fail,Pass,Pass,Pass,Pass,Pass,No
+7.7,7,8,7,7,Beginner,Beginner,None,7,13,10,IT,390,477,Fail,Pass,Pass,Pass,Pass,Fail,No
+6.28,10,10,3,2,Intermediate,Beginner,None,3,6,6,Mechanical,59,494,Pass,Pass,Pass,Pass,Pass,Fail,No
+7.17,7,3,10,6,Intermediate,Advanced,None,2,3,4,Electronics,138,275,Pass,Fail,Pass,Fail,Pass,Fail,Yes
+6.37,2,3,8,14,Beginner,None,Basic,5,10,5,Computer Science,387,250,Pass,Pass,Pass,Fail,Fail,Pass,Yes
+9.91,3,10,8,20,Beginner,Beginner,Basic,5,15,4,Electronics,236,116,Pass,Fail,Fail,Pass,Fail,Fail,Yes
+8.89,9,8,4,1,Advanced,None,Expert,0,6,5,Computer Science,499,133,Pass,Pass,Fail,Fail,Pass,Fail,No
+7.58,10,5,3,1,Intermediate,None,Expert,8,13,9,IT,420,85,Pass,Pass,Pass,Pass,Pass,Pass,No
+7.45,10,6,6,17,Beginner,None,Basic,3,12,1,Mechanical,267,172,Fail,Fail,Fail,Fail,Pass,Fail,Yes
+6.36,5,4,10,8,Advanced,Intermediate,Professional,3,0,2,IT,27,190,Fail,Pass,Pass,Fail,Pass,Fail,No
+7.88,4,7,10,10,Beginner,Intermediate,Professional,1,5,6,IT,28,114,Fail,Fail,Pass,Pass,Pass,Fail,No
+8.32,8,7,5,15,Advanced,Intermediate,Basic,1,2,2,Civil,283,444,Pass,Pass,Pass,Pass,Fail,Fail,No
+7.47,3,1,9,1,Advanced,None,Basic,6,0,5,IT,82,349,Fail,Fail,Pass,Fail,Pass,Pass,Yes
+6.04,3,8,6,9,Advanced,None,Professional,8,11,3,Computer Science,48,445,Fail,Fail,Pass,Pass,Fail,Fail,No
+9.44,6,3,4,5,Beginner,Beginner,Professional,7,2,5,IT,298,223,Pass,Fail,Pass,Pass,Pass,Pass,No
+8.18,7,6,7,1,Intermediate,None,Basic,2,15,10,Civil,287,405,Pass,Pass,Fail,Pass,Fail,Fail,No
+7.89,5,9,5,11,Beginner,Beginner,Expert,6,0,6,Civil,2,72,Pass,Fail,Fail,Pass,Pass,Pass,Yes
+9.75,3,7,6,8,Intermediate,Intermediate,Professional,7,9,8,Electronics,216,411,Fail,Pass,Fail,Fail,Pass,Fail,No
+7.96,9,4,1,11,Beginner,None,Basic,7,14,5,Computer Science,156,18,Pass,Fail,Pass,Pass,Pass,Fail,Yes
+6.89,5,4,9,6,Advanced,Intermediate,None,8,3,7,Computer Science,486,416,Fail,Pass,Pass,Pass,Pass,Pass,No
+8.34,7,6,7,20,Beginner,Beginner,Expert,3,2,10,Civil,435,131,Pass,Pass,Fail,Fail,Pass,Pass,No
+7.87,5,6,1,12,Advanced,Advanced,None,4,1,8,Computer Science,473,284,Pass,Fail,Pass,Fail,Pass,Pass,No
+9.54,1,7,9,19,Beginner,Intermediate,Professional,0,6,6,Electronics,422,435,Fail,Fail,Pass,Pass,Pass,Fail,Yes
+9.21,6,9,5,18,Intermediate,Beginner,None,1,8,8,IT,160,475,Fail,Pass,Fail,Fail,Pass,Pass,No
+9.02,9,7,9,9,Intermediate,Beginner,Expert,1,3,4,Electronics,98,195,Pass,Pass,Fail,Pass,Pass,Pass,No
+8.46,8,4,10,2,Intermediate,Intermediate,Basic,0,11,6,IT,200,202,Pass,Pass,Fail,Fail,Pass,Fail,No
+8.7,2,6,5,16,Intermediate,Beginner,None,9,9,3,Mechanical,118,458,Pass,Fail,Pass,Fail,Fail,Pass,Yes
+7.66,9,3,6,4,Intermediate,Beginner,Expert,0,12,7,Civil,183,155,Fail,Fail,Fail,Fail,Pass,Fail,Yes
+8.88,6,1,4,0,Advanced,None,Basic,0,9,6,Civil,256,135,Fail,Fail,Pass,Pass,Fail,Pass,No
+8.03,5,3,9,6,Advanced,Intermediate,None,5,9,7,Electronics,128,423,Pass,Pass,Pass,Fail,Fail,Pass,No
+8.48,6,10,6,17,Intermediate,Advanced,Expert,0,14,4,Civil,114,387,Pass,Fail,Fail,Pass,Fail,Pass,No
+7.11,8,10,7,11,Intermediate,Intermediate,None,1,1,9,Computer Science,106,327,Pass,Fail,Pass,Fail,Pass,Fail,No
+9.15,3,3,5,13,Beginner,Intermediate,None,10,12,10,Mechanical,52,230,Pass,Pass,Fail,Pass,Pass,Pass,Yes
+6.84,9,7,9,18,Beginner,Advanced,Basic,4,5,2,Mechanical,180,250,Fail,Pass,Pass,Pass,Pass,Fail,Yes
+8.79,5,9,2,0,Advanced,None,Expert,8,14,1,IT,428,170,Fail,Pass,Pass,Pass,Pass,Fail,No
+6.31,7,10,6,15,Beginner,None,None,6,7,6,Computer Science,173,352,Pass,Fail,Pass,Pass,Fail,Fail,Yes
+6.8,8,8,4,7,Intermediate,Advanced,Expert,6,6,10,Electronics,272,154,Pass,Pass,Pass,Pass,Pass,Fail,No
+8.99,8,1,1,19,Intermediate,None,Basic,10,7,1,Mechanical,448,176,Pass,Pass,Fail,Fail,Fail,Fail,No
+9.17,9,4,8,15,Advanced,Intermediate,Expert,1,7,2,Computer Science,284,263,Pass,Pass,Pass,Pass,Pass,Pass,Yes
+6.79,8,10,5,7,Intermediate,None,Basic,1,4,4,Computer Science,148,349,Pass,Fail,Fail,Fail,Pass,Fail,Yes
+8.32,9,8,8,16,Beginner,Beginner,None,6,5,1,Civil,203,448,Pass,Pass,Fail,Pass,Pass,Pass,No
+9.49,5,7,5,9,Beginner,None,Expert,10,5,2,Civil,61,96,Fail,Pass,Pass,Pass,Pass,Pass,Yes
+8.87,1,6,4,5,Beginner,None,None,8,3,2,Mechanical,487,329,Pass,Pass,Pass,Fail,Fail,Pass,No
+8.12,2,2,5,12,Intermediate,None,Expert,9,12,1,Civil,500,279,Fail,Fail,Fail,Pass,Pass,Fail,No
+6.94,9,5,3,12,Advanced,Beginner,Professional,2,10,4,Computer Science,9,486,Pass,Fail,Pass,Pass,Pass,Fail,Yes
+6.85,6,3,9,9,Advanced,Intermediate,None,0,4,4,IT,488,138,Pass,Pass,Pass,Fail,Pass,Fail,No
+6.58,7,2,2,8,Intermediate,Advanced,Basic,9,14,7,IT,336,433,Pass,Pass,Pass,Pass,Pass,Fail,No
+8.95,8,5,2,17,Intermediate,Beginner,Basic,0,7,2,Electronics,151,240,Pass,Pass,Pass,Pass,Fail,Pass,Yes
+8.74,1,10,8,10,Beginner,Beginner,Expert,9,11,4,Computer Science,57,400,Pass,Pass,Pass,Fail,Pass,Fail,Yes
+9.01,2,2,10,13,Intermediate,None,Basic,6,4,4,Civil,106,277,Pass,Pass,Pass,Pass,Fail,Pass,Yes
+7.01,7,2,1,16,Beginner,Advanced,Expert,2,14,6,Electronics,352,238,Pass,Pass,Pass,Pass,Pass,Fail,No
+8.39,8,2,3,14,Advanced,Intermediate,Professional,2,1,10,Civil,493,49,Pass,Pass,Pass,Fail,Pass,Fail,No
+8.12,2,8,10,5,Advanced,Advanced,None,1,5,10,Computer Science,359,31,Pass,Pass,Pass,Pass,Pass,Fail,No
+7.06,4,3,4,17,Advanced,Advanced,Expert,2,14,2,Electronics,163,372,Fail,Pass,Pass,Pass,Pass,Fail,No
+8.74,1,2,6,2,Beginner,Intermediate,None,1,8,8,Civil,418,493,Pass,Fail,Pass,Pass,Fail,Pass,Yes
+7.21,5,1,7,7,Advanced,Intermediate,Basic,7,1,6,Computer Science,108,323,Pass,Pass,Fail,Fail,Pass,Fail,Yes
+7.95,6,3,6,12,Intermediate,None,Professional,10,8,2,Civil,9,184,Pass,Fail,Pass,Pass,Pass,Fail,Yes
+9.05,7,10,9,8,Advanced,Advanced,None,2,14,3,Civil,329,49,Fail,Pass,Fail,Pass,Pass,Pass,Yes
+7.6,4,8,10,11,Advanced,Advanced,Professional,4,0,10,IT,485,244,Pass,Pass,Pass,Fail,Pass,Pass,No
+9.17,9,3,10,12,Beginner,Intermediate,None,10,15,6,Computer Science,245,87,Pass,Pass,Fail,Fail,Fail,Pass,Yes
+6.96,8,5,4,12,Intermediate,Beginner,Basic,1,5,6,Electronics,222,419,Fail,Pass,Pass,Pass,Pass,Pass,Yes
+8.48,2,8,7,9,Beginner,Advanced,Professional,5,2,10,Computer Science,178,434,Pass,Pass,Pass,Pass,Pass,Fail,No
+6.07,7,8,1,9,Advanced,None,None,7,0,1,IT,172,180,Fail,Pass,Fail,Pass,Pass,Fail,Yes
+7.6,5,1,10,17,Intermediate,Beginner,Basic,10,5,5,IT,7,222,Pass,Pass,Pass,Pass,Pass,Fail,Yes
+7.04,6,10,1,0,Intermediate,Intermediate,Expert,9,10,10,Mechanical,123,28,Fail,Pass,Pass,Fail,Pass,Pass,No
+9.07,5,2,3,20,Advanced,None,None,7,2,2,Electronics,260,25,Fail,Fail,Fail,Fail,Pass,Fail,Yes
+8.83,9,6,8,6,Intermediate,None,Professional,7,11,1,IT,51,318,Pass,Pass,Pass,Pass,Pass,Pass,Yes
+6.33,7,1,3,15,Intermediate,None,Professional,4,4,5,IT,408,477,Fail,Fail,Pass,Fail,Pass,Pass,Yes
+7.88,3,1,1,12,Advanced,Advanced,Professional,8,8,4,Electronics,84,102,Pass,Pass,Pass,Pass,Pass,Pass,Yes
+7.75,3,8,10,3,Advanced,Intermediate,None,7,8,4,Mechanical,389,402,Pass,Fail,Pass,Pass,Pass,Pass,Yes
+7.81,10,10,6,2,Intermediate,Advanced,Expert,3,6,1,Mechanical,310,334,Pass,Pass,Pass,Fail,Fail,Fail,Yes
+7.75,1,8,3,8,Intermediate,None,Basic,2,6,5,Civil,280,398,Pass,Pass,Pass,Pass,Fail,Fail,Yes
+6.61,2,3,2,14,Intermediate,None,Basic,6,0,1,IT,214,472,Fail,Pass,Pass,Fail,Pass,Fail,No
+9.28,10,9,9,20,Beginner,None,Basic,10,14,4,Electronics,407,430,Fail,Pass,Pass,Pass,Pass,Pass,No
+9.88,1,1,2,12,Beginner,None,Basic,10,4,7,IT,182,180,Pass,Pass,Fail,Pass,Fail,Pass,Yes
+9.22,8,5,7,0,Advanced,Beginner,Professional,5,11,8,Computer Science,114,183,Pass,Pass,Pass,Fail,Fail,Pass,Yes
+8.69,7,10,3,11,Advanced,None,Expert,8,5,10,Computer Science,30,376,Pass,Pass,Fail,Pass,Pass,Fail,Yes
+9.62,6,10,3,11,Advanced,Advanced,Professional,8,10,4,Electronics,296,419,Pass,Fail,Pass,Pass,Pass,Fail,Yes
+9.22,8,1,6,9,Intermediate,Intermediate,Professional,4,11,8,Mechanical,12,94,Pass,Pass,Fail,Fail,Fail,Fail,No
+9.1,1,1,9,2,Intermediate,Intermediate,Expert,4,12,7,IT,172,215,Fail,Fail,Fail,Fail,Fail,Fail,Yes
+6.3,9,1,7,19,Advanced,None,Expert,3,8,5,Electronics,451,58,Pass,Pass,Fail,Fail,Pass,Fail,No
+7.52,4,10,7,19,Advanced,Beginner,Professional,6,10,5,Electronics,216,484,Pass,Fail,Fail,Fail,Fail,Pass,Yes
+9.43,7,9,7,13,Beginner,None,Professional,0,2,10,Mechanical,368,182,Fail,Pass,Pass,Pass,Pass,Fail,No
+8.96,10,3,7,3,Beginner,Intermediate,Professional,9,7,8,IT,149,17,Pass,Fail,Pass,Pass,Pass,Pass,No
+6.1,6,5,4,19,Advanced,Intermediate,Basic,6,13,7,Civil,307,365,Pass,Pass,Pass,Pass,Fail,Pass,Yes
+7.52,1,4,3,6,Beginner,Beginner,None,9,6,10,Mechanical,298,399,Pass,Pass,Fail,Fail,Pass,Fail,Yes
+7.64,3,3,8,8,Intermediate,Advanced,Basic,9,7,7,IT,187,195,Pass,Pass,Fail,Pass,Pass,Pass,No
+9.26,9,6,10,5,Advanced,Advanced,Professional,5,0,4,Computer Science,393,261,Fail,Pass,Fail,Pass,Pass,Fail,Yes
+9.77,3,8,3,18,Advanced,Intermediate,Professional,6,4,2,Computer Science,179,153,Pass,Fail,Fail,Pass,Fail,Pass,No
+9.83,7,10,7,13,Advanced,None,Professional,8,2,7,IT,348,395,Pass,Pass,Pass,Pass,Pass,Fail,No
+8.46,5,2,6,4,Advanced,Intermediate,None,2,10,6,IT,331,8,Pass,Pass,Fail,Fail,Pass,Fail,No
+7.7,4,4,4,8,Beginner,None,Basic,8,1,5,Computer Science,484,489,Pass,Fail,Pass,Pass,Pass,Fail,No
+7.09,7,3,5,3,Intermediate,Intermediate,None,7,6,6,Electronics,88,323,Fail,Fail,Pass,Pass,Pass,Pass,No
+6.56,9,2,3,3,Beginner,Intermediate,Basic,4,3,4,Computer Science,433,214,Pass,Pass,Pass,Pass,Pass,Pass,Yes
+9.7,4,8,9,16,Intermediate,None,None,2,13,6,IT,232,232,Pass,Pass,Pass,Pass,Pass,Pass,Yes
+7.75,9,5,10,3,Beginner,None,None,1,6,8,IT,463,282,Fail,Pass,Pass,Fail,Pass,Pass,No
+8.29,1,9,7,5,Beginner,Intermediate,Professional,3,2,2,Electronics,291,26,Fail,Pass,Pass,Fail,Pass,Pass,Yes
+7.65,10,7,1,5,Beginner,Intermediate,Basic,2,12,10,IT,327,345,Pass,Fail,Fail,Pass,Fail,Pass,Yes
+9.23,4,3,4,10,Advanced,Beginner,Professional,6,0,1,Mechanical,184,371,Pass,Fail,Pass,Pass,Pass,Fail,Yes
+8.44,5,6,5,13,Beginner,Intermediate,Basic,3,6,9,Electronics,416,142,Pass,Pass,Fail,Fail,Pass,Pass,Yes
+6.4,7,8,2,3,Beginner,Intermediate,Expert,8,8,3,Electronics,339,270,Fail,Pass,Pass,Pass,Pass,Pass,Yes
+6.91,10,3,8,11,Beginner,Beginner,Basic,3,10,3,Computer Science,95,476,Pass,Pass,Pass,Pass,Pass,Fail,Yes
+7.69,2,9,3,17,Advanced,None,Basic,10,15,6,IT,129,65,Fail,Pass,Pass,Fail,Pass,Fail,Yes
+7.46,9,7,5,12,Beginner,Beginner,None,10,0,7,Electronics,319,263,Pass,Pass,Fail,Fail,Pass,Fail,Yes
+6.95,8,8,2,14,Advanced,None,None,3,9,6,Mechanical,184,113,Fail,Pass,Pass,Pass,Pass,Fail,Yes
+8.02,9,3,9,0,Advanced,Advanced,Basic,4,4,4,Civil,371,319,Pass,Fail,Fail,Pass,Pass,Fail,No
+7.43,3,9,9,11,Advanced,Beginner,Expert,6,9,10,IT,361,74,Pass,Fail,Fail,Pass,Fail,Fail,No
+9.86,3,8,7,13,Intermediate,Beginner,None,9,12,3,Computer Science,126,386,Pass,Pass,Pass,Fail,Pass,Fail,Yes
+8.06,9,6,5,17,Intermediate,Advanced,Professional,4,5,3,Electronics,259,431,Fail,Pass,Fail,Pass,Pass,Pass,Yes
+7.89,3,1,10,11,Advanced,Intermediate,None,10,7,9,Electronics,21,133,Fail,Fail,Pass,Pass,Pass,Pass,Yes
+9.25,3,3,4,19,Intermediate,None,Expert,7,5,1,Computer Science,146,426,Pass,Pass,Pass,Pass,Fail,Pass,No
+7.95,1,9,5,7,Beginner,Intermediate,None,5,10,5,Electronics,111,122,Pass,Fail,Fail,Pass,Pass,Pass,Yes
+7.23,10,6,1,5,Intermediate,Beginner,Professional,5,0,6,Electronics,273,452,Fail,Pass,Pass,Pass,Pass,Fail,No
+7.66,10,8,2,17,Beginner,None,None,8,9,2,Civil,219,266,Pass,Pass,Fail,Pass,Pass,Pass,No
+6.92,3,1,6,7,Advanced,Advanced,Professional,10,8,7,IT,488,106,Fail,Pass,Fail,Pass,Pass,Pass,Yes
+7.42,5,1,1,17,Beginner,Beginner,Expert,3,0,1,Electronics,24,293,Pass,Pass,Fail,Pass,Pass,Pass,No
+8.45,8,10,3,2,Beginner,Advanced,None,8,10,1,IT,108,228,Pass,Fail,Pass,Pass,Fail,Fail,No
+9.24,5,1,6,9,Beginner,Intermediate,Professional,5,5,2,Electronics,72,392,Fail,Pass,Pass,Fail,Fail,Fail,No
+8.53,9,9,9,20,Beginner,Advanced,Expert,7,7,5,Mechanical,184,2,Fail,Fail,Pass,Pass,Pass,Pass,Yes
+6.38,6,10,9,8,Intermediate,None,Expert,1,4,9,Electronics,237,266,Pass,Fail,Fail,Fail,Pass,Fail,Yes
+8.86,4,3,2,14,Beginner,Beginner,Expert,1,12,5,Electronics,158,429,Fail,Fail,Pass,Pass,Pass,Fail,No
+8.06,9,3,8,13,Intermediate,Intermediate,None,0,9,1,Mechanical,43,19,Pass,Pass,Pass,Fail,Pass,Fail,Yes
+9.14,5,2,2,12,Beginner,Intermediate,Professional,0,6,4,Computer Science,244,181,Fail,Fail,Pass,Pass,Pass,Pass,Yes
+9.69,4,8,1,1,Advanced,Intermediate,Professional,9,3,6,Civil,107,230,Fail,Pass,Fail,Fail,Pass,Pass,Yes
+9.05,7,4,5,0,Intermediate,Beginner,Expert,9,5,5,Electronics,463,390,Pass,Pass,Pass,Pass,Pass,Fail,Yes
+7.39,7,9,9,11,Intermediate,Advanced,Basic,6,6,4,Electronics,294,241,Pass,Fail,Fail,Pass,Pass,Pass,Yes
+6.06,10,3,9,0,Beginner,Beginner,Basic,3,3,1,Electronics,285,289,Pass,Pass,Pass,Pass,Fail,Fail,Yes
+9.25,1,4,2,0,Advanced,Beginner,None,3,4,1,Electronics,137,223,Pass,Pass,Pass,Pass,Fail,Fail,Yes
+6.92,5,5,5,8,Beginner,Advanced,Professional,4,14,2,Mechanical,155,467,Pass,Pass,Pass,Fail,Pass,Pass,No
+6.02,2,6,9,5,Advanced,Beginner,Professional,10,1,4,Civil,256,97,Pass,Fail,Pass,Pass,Fail,Pass,No
+8.84,6,3,2,11,Beginner,Advanced,None,3,3,6,IT,96,100,Pass,Pass,Pass,Pass,Pass,Pass,Yes
+6.21,5,6,6,19,Beginner,Beginner,Expert,1,6,10,IT,454,393,Pass,Pass,Fail,Pass,Pass,Fail,No
+7.0,3,8,9,4,Advanced,Beginner,Professional,9,6,4,Electronics,176,374,Fail,Pass,Fail,Pass,Pass,Fail,Yes
+7.55,5,10,4,12,Advanced,Advanced,Professional,1,1,9,Civil,364,268,Pass,Pass,Pass,Pass,Pass,Fail,No
+6.49,3,6,9,1,Intermediate,Beginner,Basic,1,1,3,Civil,495,428,Pass,Pass,Pass,Fail,Pass,Fail,Yes
+8.38,7,7,2,10,Advanced,None,Professional,6,0,3,Civil,193,353,Pass,Fail,Fail,Pass,Fail,Pass,No
+8.08,8,7,10,20,Intermediate,Beginner,None,7,13,4,IT,385,239,Pass,Pass,Pass,Pass,Fail,Pass,No
+8.08,4,8,1,19,Advanced,Advanced,Expert,8,2,2,Computer Science,359,144,Pass,Fail,Pass,Pass,Pass,Pass,Yes
+9.26,4,6,8,19,Beginner,Intermediate,None,7,0,3,IT,394,116,Pass,Fail,Fail,Fail,Pass,Fail,No
+9.13,10,4,7,14,Intermediate,Intermediate,Professional,6,15,2,Mechanical,196,491,Pass,Pass,Pass,Pass,Pass,Fail,Yes
+8.02,6,3,10,4,Intermediate,None,Professional,4,8,10,IT,264,321,Pass,Pass,Pass,Pass,Pass,Pass,No
+6.43,3,3,6,10,Intermediate,None,Expert,5,11,9,Civil,196,233,Fail,Pass,Pass,Pass,Fail,Fail,No
+6.14,5,9,8,2,Advanced,Advanced,None,10,8,2,Computer Science,398,37,Pass,Pass,Pass,Pass,Pass,Fail,Yes
+6.13,6,10,2,2,Beginner,Beginner,Basic,1,8,7,Mechanical,240,72,Pass,Pass,Fail,Pass,Pass,Pass,No
+9.59,7,8,2,11,Advanced,Advanced,Expert,4,6,8,Civil,399,443,Pass,Pass,Pass,Pass,Pass,Fail,No
+9.76,7,10,4,6,Intermediate,None,Basic,3,10,9,Electronics,92,146,Fail,Pass,Fail,Pass,Fail,Pass,Yes
+9.07,2,2,1,4,Advanced,Intermediate,Basic,8,1,5,Electronics,234,339,Pass,Pass,Pass,Pass,Pass,Pass,Yes
+8.89,10,5,1,2,Beginner,Intermediate,Professional,8,12,10,Civil,86,9,Pass,Fail,Pass,Pass,Fail,Pass,Yes
+7.5,2,2,3,18,Beginner,Intermediate,Expert,5,9,4,Computer Science,410,141,Pass,Pass,Fail,Pass,Fail,Fail,Yes
+7.09,9,5,6,2,Advanced,Advanced,None,5,6,10,Civil,327,67,Fail,Pass,Pass,Pass,Pass,Pass,Yes
+8.43,6,2,1,5,Beginner,Intermediate,Basic,9,8,2,Civil,347,80,Pass,Pass,Pass,Pass,Pass,Pass,No
+8.82,7,3,2,4,Beginner,Advanced,None,4,11,2,IT,115,390,Pass,Fail,Fail,Pass,Pass,Pass,No
+6.33,6,2,3,17,Advanced,Intermediate,Professional,5,7,6,Electronics,244,97,Pass,Pass,Pass,Fail,Pass,Fail,No
+8.57,9,6,2,5,Beginner,None,Professional,3,11,9,Electronics,84,250,Pass,Fail,Pass,Pass,Fail,Pass,Yes
+8.26,7,9,7,15,Beginner,Beginner,Professional,0,8,7,Mechanical,412,49,Pass,Fail,Pass,Fail,Pass,Pass,No
+6.57,6,10,9,3,Beginner,Intermediate,Professional,4,12,7,Mechanical,127,23,Fail,Pass,Fail,Pass,Pass,Fail,No
+8.66,5,4,1,8,Beginner,Advanced,Expert,10,3,10,Electronics,130,52,Fail,Pass,Fail,Pass,Pass,Pass,No
+7.03,5,7,1,8,Intermediate,None,Basic,4,10,3,Mechanical,411,135,Pass,Pass,Pass,Pass,Fail,Pass,No
+7.81,5,10,9,7,Intermediate,Beginner,Basic,1,1,6,IT,380,54,Pass,Fail,Pass,Pass,Pass,Fail,No
+9.47,3,9,1,20,Advanced,None,Basic,1,8,10,Electronics,45,59,Pass,Fail,Fail,Fail,Pass,Fail,Yes
+6.01,5,4,1,13,Beginner,None,Basic,10,4,3,IT,144,422,Fail,Fail,Fail,Pass,Pass,Pass,No
+7.53,1,8,8,12,Beginner,Beginner,Basic,8,12,8,Civil,209,437,Pass,Fail,Pass,Pass,Fail,Fail,No
+7.42,2,2,2,1,Beginner,Beginner,Professional,5,4,9,Computer Science,75,235,Pass,Pass,Fail,Pass,Pass,Fail,Yes
+9.66,10,6,1,5,Advanced,Intermediate,None,4,5,10,IT,296,30,Pass,Pass,Pass,Fail,Pass,Fail,No
+9.72,2,10,3,17,Advanced,None,Expert,9,1,1,Computer Science,355,77,Fail,Pass,Pass,Fail,Pass,Fail,No
+8.83,8,3,9,14,Beginner,Advanced,Basic,7,11,2,Electronics,463,194,Pass,Pass,Pass,Fail,Pass,Pass,Yes
+6.88,1,10,1,12,Beginner,Intermediate,Basic,9,11,5,IT,119,55,Fail,Pass,Fail,Pass,Pass,Pass,Yes
+9.82,8,8,7,19,Beginner,Advanced,Expert,6,12,3,IT,369,363,Pass,Pass,Pass,Pass,Fail,Pass,Yes
+6.92,5,10,3,20,Intermediate,Advanced,None,4,13,4,Mechanical,238,315,Pass,Fail,Pass,Pass,Fail,Fail,No
+9.03,6,2,10,11,Intermediate,Beginner,Expert,10,14,2,Civil,90,385,Fail,Pass,Pass,Pass,Fail,Pass,No
+6.25,7,1,9,17,Intermediate,Intermediate,Basic,6,10,6,Computer Science,157,497,Pass,Fail,Pass,Fail,Pass,Pass,Yes
+7.97,10,10,7,20,Intermediate,Advanced,Expert,4,2,7,Electronics,300,157,Fail,Pass,Pass,Fail,Pass,Fail,No
+7.79,4,1,4,10,Advanced,None,Expert,10,9,8,Civil,465,167,Pass,Pass,Fail,Fail,Pass,Pass,Yes
+9.39,1,8,1,6,Beginner,None,Expert,3,3,6,Electronics,291,485,Pass,Pass,Pass,Fail,Pass,Fail,Yes
+7.33,3,9,3,8,Advanced,None,Professional,3,10,10,Computer Science,32,60,Pass,Fail,Pass,Fail,Pass,Fail,Yes
+6.29,5,3,10,12,Advanced,Intermediate,Expert,1,1,8,IT,470,487,Pass,Fail,Fail,Pass,Pass,Pass,Yes
+6.38,5,5,6,12,Beginner,Intermediate,None,0,13,7,IT,1,452,Pass,Pass,Pass,Fail,Fail,Pass,Yes
+6.68,3,9,8,16,Intermediate,Beginner,Basic,3,5,2,Mechanical,7,384,Fail,Pass,Fail,Fail,Pass,Fail,No
+7.73,9,5,7,7,Intermediate,None,None,4,7,2,Electronics,204,121,Fail,Pass,Fail,Pass,Pass,Fail,Yes
+7.46,3,8,6,10,Advanced,None,Basic,9,12,2,IT,163,267,Pass,Fail,Fail,Pass,Fail,Pass,Yes
+6.14,10,8,5,11,Advanced,Beginner,Professional,9,10,9,Civil,78,259,Pass,Pass,Pass,Fail,Pass,Fail,No
+9.84,4,4,1,13,Intermediate,Beginner,Professional,4,4,8,Electronics,70,71,Pass,Fail,Pass,Pass,Fail,Fail,Yes
+9.25,9,5,5,14,Beginner,Beginner,Expert,0,0,2,Computer Science,455,470,Pass,Pass,Fail,Fail,Pass,Fail,No
+6.99,2,1,9,16,Intermediate,Beginner,None,7,3,6,Civil,33,168,Pass,Pass,Fail,Fail,Pass,Fail,Yes
+8.4,4,1,6,12,Beginner,None,Basic,0,11,8,IT,311,305,Pass,Fail,Pass,Fail,Pass,Pass,Yes
+9.47,10,10,1,1,Intermediate,Beginner,Basic,6,1,1,Civil,262,170,Pass,Pass,Pass,Pass,Pass,Fail,Yes
+8.53,8,7,10,15,Advanced,None,None,7,2,7,IT,202,99,Pass,Pass,Pass,Pass,Fail,Pass,No
+7.17,3,3,3,6,Advanced,Intermediate,Expert,9,4,7,Civil,414,341,Pass,Pass,Pass,Pass,Pass,Pass,No
+7.2,3,5,3,7,Beginner,Advanced,None,7,12,1,IT,326,17,Fail,Pass,Fail,Fail,Pass,Fail,Yes
+6.45,2,10,2,6,Intermediate,None,Basic,5,14,8,Computer Science,319,421,Pass,Pass,Fail,Fail,Pass,Pass,No
+8.38,1,9,7,0,Advanced,None,Professional,6,7,3,Computer Science,12,361,Pass,Fail,Pass,Pass,Fail,Pass,No
+9.98,4,10,7,15,Intermediate,None,Professional,0,7,2,Electronics,87,297,Fail,Fail,Pass,Pass,Pass,Fail,No
+9.48,2,6,1,2,Beginner,None,Professional,10,7,2,Mechanical,155,355,Pass,Pass,Pass,Pass,Pass,Pass,No
+8.3,4,5,10,16,Advanced,Intermediate,Professional,8,9,5,Electronics,117,4,Fail,Fail,Fail,Pass,Pass,Fail,No
+8.26,9,6,6,5,Advanced,Beginner,Expert,6,9,2,Electronics,498,116,Pass,Pass,Pass,Pass,Pass,Pass,No
+8.76,9,4,1,5,Intermediate,Intermediate,Professional,5,6,6,Civil,284,381,Fail,Pass,Fail,Fail,Fail,Pass,No
+6.82,8,4,7,13,Advanced,None,Professional,5,1,5,Mechanical,463,380,Pass,Pass,Fail,Fail,Fail,Fail,No
+9.3,1,4,7,12,Beginner,Advanced,Basic,5,4,2,Computer Science,215,105,Pass,Fail,Fail,Pass,Fail,Pass,No
+9.94,9,1,2,17,Advanced,Intermediate,Expert,4,10,4,Mechanical,436,306,Pass,Fail,Pass,Pass,Pass,Fail,Yes
+9.45,3,2,5,7,Beginner,None,Professional,2,0,8,Computer Science,385,91,Pass,Pass,Fail,Pass,Pass,Pass,Yes
+8.35,6,2,6,13,Intermediate,None,None,0,7,3,IT,393,82,Pass,Pass,Fail,Pass,Fail,Pass,Yes
+7.87,8,7,1,14,Intermediate,Beginner,Basic,6,0,4,Civil,220,332,Pass,Pass,Fail,Fail,Pass,Fail,No
+7.51,5,8,5,5,Beginner,Beginner,Expert,6,0,7,Electronics,413,231,Pass,Pass,Pass,Fail,Pass,Pass,Yes
+8.12,10,10,6,2,Advanced,Beginner,Professional,1,3,7,IT,28,68,Fail,Fail,Fail,Fail,Pass,Fail,No
+6.19,2,1,3,3,Beginner,None,Professional,4,6,10,Electronics,116,485,Fail,Pass,Fail,Pass,Fail,Pass,Yes
+8.38,5,10,7,16,Beginner,Intermediate,Basic,2,7,8,Mechanical,78,178,Pass,Pass,Pass,Pass,Fail,Pass,Yes
+8.85,4,5,4,18,Beginner,None,Basic,5,11,2,Computer Science,44,414,Pass,Pass,Pass,Fail,Pass,Pass,No
+6.65,2,8,8,8,Beginner,Advanced,Expert,10,2,10,Computer Science,242,449,Pass,Pass,Pass,Pass,Pass,Fail,Yes
+7.51,6,6,7,15,Beginner,Advanced,Professional,5,12,3,Electronics,355,211,Pass,Pass,Fail,Fail,Pass,Fail,No
+9.33,9,5,10,4,Advanced,Advanced,Basic,5,12,3,Electronics,405,246,Pass,Pass,Pass,Fail,Fail,Fail,Yes
+9.67,5,10,10,7,Beginner,Intermediate,None,10,1,6,Electronics,477,195,Pass,Fail,Pass,Fail,Pass,Fail,Yes
+9.09,9,7,3,0,Advanced,Advanced,None,7,12,5,Computer Science,1,490,Pass,Pass,Fail,Pass,Fail,Fail,Yes
+6.26,1,2,4,9,Intermediate,Intermediate,Basic,9,8,1,Electronics,216,165,Pass,Fail,Pass,Fail,Fail,Pass,Yes
+9.29,2,8,5,4,Advanced,Intermediate,None,2,15,7,IT,483,37,Pass,Pass,Pass,Pass,Pass,Pass,No
+7.34,4,7,6,0,Beginner,None,Basic,4,2,4,Mechanical,436,38,Pass,Pass,Fail,Fail,Pass,Fail,Yes
+6.44,7,8,2,12,Advanced,Beginner,Professional,1,10,2,Mechanical,314,88,Pass,Pass,Pass,Pass,Fail,Fail,No
+8.43,10,8,4,10,Beginner,None,Professional,6,11,9,Computer Science,373,417,Fail,Fail,Pass,Fail,Pass,Pass,Yes
+6.25,3,7,2,14,Advanced,Intermediate,Professional,0,1,5,Civil,435,294,Pass,Pass,Pass,Fail,Pass,Fail,No
+9.27,10,3,4,9,Intermediate,Beginner,Expert,10,8,9,Computer Science,449,401,Fail,Pass,Pass,Pass,Pass,Pass,Yes
+7.39,7,2,8,17,Beginner,Intermediate,Professional,9,10,9,Civil,401,340,Pass,Pass,Fail,Pass,Pass,Fail,Yes
+9.6,8,4,1,15,Intermediate,Intermediate,Professional,8,7,8,Civil,32,264,Pass,Pass,Pass,Pass,Pass,Pass,Yes
+9.92,1,1,7,0,Advanced,Advanced,Professional,8,15,3,Electronics,95,274,Fail,Pass,Fail,Fail,Fail,Fail,Yes
+6.08,10,2,2,3,Beginner,None,Basic,3,5,10,Electronics,396,224,Pass,Pass,Pass,Fail,Fail,Pass,Yes
+6.79,7,6,4,16,Advanced,Intermediate,Basic,6,15,4,Computer Science,267,406,Pass,Fail,Pass,Pass,Fail,Pass,No
+7.29,7,2,6,14,Intermediate,Advanced,Expert,8,15,1,IT,324,395,Pass,Pass,Fail,Pass,Fail,Pass,Yes
+8.57,1,6,10,6,Advanced,Intermediate,Expert,8,13,2,Computer Science,394,379,Pass,Pass,Fail,Fail,Fail,Fail,No
+7.14,9,1,6,17,Beginner,None,Expert,10,8,4,IT,56,497,Fail,Pass,Fail,Fail,Fail,Fail,Yes
+7.2,4,2,5,2,Beginner,Beginner,None,5,5,1,Computer Science,270,480,Pass,Pass,Fail,Fail,Pass,Pass,No
+9.96,4,3,1,4,Beginner,Beginner,Professional,6,3,3,Computer Science,171,342,Fail,Pass,Fail,Fail,Pass,Fail,Yes
+7.9,4,10,2,3,Advanced,Advanced,None,1,7,4,Electronics,351,244,Fail,Pass,Fail,Fail,Pass,Pass,Yes
+6.55,7,10,8,17,Beginner,Beginner,Expert,8,4,8,Mechanical,218,349,Pass,Pass,Pass,Pass,Fail,Fail,Yes
+7.6,4,3,9,17,Beginner,Intermediate,Basic,10,10,7,Electronics,374,299,Pass,Fail,Fail,Pass,Pass,Pass,Yes
+9.03,3,7,10,6,Intermediate,Advanced,None,7,5,1,Mechanical,272,197,Pass,Fail,Fail,Pass,Pass,Fail,No
+9.57,2,3,6,17,Advanced,Beginner,Basic,1,3,5,Mechanical,76,291,Fail,Pass,Pass,Fail,Pass,Fail,Yes
+7.26,9,2,9,6,Beginner,Beginner,Basic,3,10,2,Civil,62,2,Pass,Fail,Fail,Pass,Pass,Pass,No
+6.14,7,3,8,3,Advanced,Intermediate,Basic,4,9,5,Mechanical,308,328,Pass,Pass,Pass,Pass,Fail,Pass,No
+8.13,5,3,4,14,Advanced,Intermediate,Professional,1,8,8,IT,104,25,Fail,Pass,Pass,Fail,Pass,Fail,No
+8.63,2,5,10,18,Intermediate,Advanced,Expert,9,2,10,Electronics,478,2,Pass,Pass,Pass,Fail,Fail,Fail,Yes
+6.76,2,2,4,4,Advanced,Intermediate,None,2,12,7,Civil,479,360,Pass,Pass,Fail,Pass,Pass,Fail,Yes
+9.0,6,4,2,0,Advanced,None,Basic,1,14,4,Electronics,127,60,Pass,Pass,Pass,Fail,Fail,Fail,Yes
+6.0,4,4,5,5,Advanced,Intermediate,Expert,2,12,6,Electronics,240,320,Pass,Pass,Pass,Fail,Pass,Fail,Yes
+9.61,5,3,2,12,Beginner,None,None,8,13,1,Mechanical,431,383,Pass,Fail,Pass,Pass,Pass,Pass,No
+8.98,10,5,9,16,Advanced,Advanced,None,3,6,3,Electronics,178,166,Pass,Pass,Fail,Pass,Pass,Pass,No
+6.5,7,10,1,7,Advanced,Advanced,None,4,10,2,Computer Science,489,333,Pass,Fail,Pass,Pass,Fail,Pass,No
+6.09,2,5,2,14,Intermediate,Beginner,Basic,6,12,2,Civil,377,460,Pass,Pass,Pass,Pass,Pass,Fail,No
+9.32,4,2,8,16,Beginner,Beginner,Basic,5,13,8,Electronics,491,470,Pass,Pass,Fail,Fail,Fail,Fail,Yes
+8.43,9,2,6,10,Beginner,Advanced,Professional,1,2,4,IT,115,406,Pass,Pass,Pass,Fail,Pass,Pass,Yes
+6.22,6,5,10,19,Advanced,Intermediate,None,3,9,7,Civil,99,48,Pass,Fail,Fail,Pass,Fail,Fail,Yes
+7.46,8,3,2,18,Beginner,Beginner,Professional,10,10,5,IT,255,11,Fail,Pass,Fail,Pass,Fail,Pass,Yes
+9.84,4,1,6,12,Intermediate,Intermediate,Expert,6,0,7,Civil,146,255,Pass,Pass,Fail,Pass,Fail,Fail,Yes
+6.61,5,4,9,7,Advanced,Beginner,Basic,8,10,6,Mechanical,357,342,Pass,Pass,Pass,Pass,Pass,Fail,No
+6.24,8,2,5,15,Advanced,Intermediate,Professional,2,12,1,IT,176,182,Fail,Pass,Pass,Pass,Pass,Pass,No
+6.97,10,7,10,3,Advanced,Intermediate,None,7,12,2,Computer Science,449,102,Pass,Fail,Pass,Fail,Fail,Pass,No
+7.02,6,9,6,6,Beginner,Beginner,None,0,5,7,Computer Science,409,254,Pass,Fail,Fail,Pass,Fail,Pass,Yes
+8.61,5,9,7,4,Beginner,Advanced,None,9,14,4,Computer Science,454,129,Pass,Fail,Pass,Fail,Fail,Pass,No
+7.38,2,5,8,14,Intermediate,None,Professional,10,2,9,Mechanical,21,19,Pass,Fail,Pass,Pass,Pass,Fail,Yes
+7.18,1,2,5,8,Beginner,Advanced,None,6,1,4,Civil,0,216,Pass,Pass,Fail,Pass,Fail,Fail,No
+7.65,2,2,8,5,Beginner,Beginner,None,3,10,8,Mechanical,293,477,Pass,Fail,Fail,Pass,Pass,Fail,No
+9.94,2,6,5,8,Advanced,None,None,8,13,5,Computer Science,20,436,Fail,Pass,Fail,Fail,Pass,Fail,No
+8.91,5,7,1,16,Intermediate,None,Basic,6,3,10,Mechanical,199,384,Fail,Fail,Pass,Pass,Pass,Fail,Yes
+7.59,7,10,1,3,Beginner,Intermediate,None,0,13,9,Computer Science,393,39,Fail,Fail,Pass,Pass,Pass,Pass,Yes
+9.22,6,6,4,1,Intermediate,Beginner,Professional,6,10,5,Electronics,138,34,Pass,Fail,Fail,Pass,Fail,Fail,Yes
+8.04,9,2,8,7,Beginner,Advanced,Professional,10,11,6,Electronics,102,158,Fail,Pass,Pass,Pass,Pass,Pass,Yes
+9.66,6,7,3,15,Beginner,None,Expert,7,13,1,Mechanical,453,234,Pass,Fail,Fail,Pass,Fail,Pass,No
+7.81,10,2,10,19,Intermediate,Advanced,Expert,5,3,6,Civil,318,111,Fail,Pass,Pass,Pass,Fail,Pass,No
+7.47,6,3,4,12,Beginner,Intermediate,Expert,4,5,3,Electronics,216,438,Fail,Pass,Pass,Fail,Fail,Pass,No
+7.37,7,10,9,3,Beginner,Beginner,Expert,4,6,9,Electronics,171,59,Pass,Fail,Pass,Fail,Pass,Pass,Yes
+8.91,3,2,4,10,Intermediate,Intermediate,Basic,8,8,5,Computer Science,96,199,Pass,Fail,Fail,Pass,Fail,Fail,No
+7.25,10,1,7,2,Advanced,Intermediate,None,7,6,8,Civil,360,363,Fail,Fail,Pass,Pass,Pass,Pass,Yes
+7.22,1,4,1,8,Intermediate,Advanced,Basic,8,7,3,IT,233,249,Fail,Pass,Pass,Pass,Pass,Fail,Yes
+7.78,7,3,3,17,Advanced,Beginner,Expert,3,0,1,Mechanical,3,127,Pass,Pass,Fail,Fail,Pass,Fail,No
+7.68,1,6,7,6,Advanced,None,Basic,2,5,8,IT,280,235,Pass,Pass,Pass,Fail,Fail,Pass,No
+8.85,8,3,9,7,Advanced,Intermediate,Professional,5,2,6,Computer Science,227,217,Fail,Pass,Pass,Pass,Fail,Fail,Yes
+7.53,2,7,4,3,Beginner,Beginner,Professional,4,8,3,IT,77,434,Fail,Pass,Fail,Pass,Fail,Pass,No
+7.24,6,2,10,14,Beginner,Advanced,Professional,6,6,9,Mechanical,127,281,Fail,Pass,Pass,Fail,Pass,Pass,Yes
+9.89,10,3,4,4,Intermediate,Intermediate,Professional,3,13,9,Computer Science,10,493,Pass,Fail,Fail,Pass,Fail,Pass,No
+8.94,5,7,6,9,Advanced,Intermediate,Basic,9,13,5,Electronics,294,460,Fail,Pass,Fail,Pass,Pass,Pass,No
+6.37,2,9,7,20,Advanced,Beginner,Professional,7,8,9,IT,263,437,Pass,Fail,Fail,Pass,Pass,Fail,No
+8.38,2,10,4,16,Intermediate,None,None,4,15,3,Mechanical,147,459,Fail,Pass,Fail,Pass,Fail,Fail,Yes
+8.2,4,5,1,4,Intermediate,Advanced,Professional,4,15,9,Civil,461,369,Pass,Pass,Fail,Fail,Fail,Fail,Yes
+7.71,10,3,5,15,Beginner,None,Basic,10,11,2,IT,59,290,Fail,Pass,Fail,Pass,Pass,Fail,No
+9.86,4,3,8,15,Beginner,Beginner,Basic,2,8,8,IT,440,96,Fail,Pass,Pass,Pass,Pass,Pass,Yes
+9.17,5,3,5,3,Advanced,Beginner,Basic,1,2,6,Civil,15,479,Fail,Fail,Pass,Fail,Fail,Fail,Yes
+6.02,5,6,5,1,Intermediate,Advanced,Expert,5,10,2,Civil,376,25,Fail,Pass,Fail,Fail,Pass,Fail,Yes
+9.25,1,5,1,5,Advanced,Intermediate,None,6,5,5,Computer Science,213,233,Pass,Fail,Pass,Pass,Pass,Fail,Yes
+9.98,2,4,1,7,Beginner,Beginner,None,8,0,2,IT,265,110,Pass,Pass,Fail,Fail,Pass,Fail,No
+8.85,7,1,3,3,Advanced,Intermediate,Professional,8,14,1,Civil,380,45,Fail,Pass,Pass,Pass,Fail,Pass,Yes
+6.82,4,1,9,12,Intermediate,Intermediate,Expert,6,10,9,Computer Science,59,492,Fail,Fail,Pass,Fail,Pass,Pass,Yes
+7.07,9,8,8,9,Advanced,Intermediate,Basic,7,11,5,Civil,255,412,Fail,Fail,Fail,Fail,Pass,Pass,Yes
+9.62,5,2,5,0,Beginner,Intermediate,Basic,9,14,9,Electronics,354,332,Pass,Fail,Pass,Pass,Pass,Fail,Yes
+6.05,9,1,3,15,Advanced,Beginner,Expert,1,13,9,Mechanical,437,83,Fail,Pass,Pass,Fail,Pass,Pass,No
+8.98,6,3,10,1,Intermediate,Beginner,Expert,8,14,6,Computer Science,347,322,Pass,Fail,Pass,Pass,Pass,Pass,Yes
+8.56,2,6,9,20,Intermediate,None,Expert,4,1,10,Computer Science,62,211,Fail,Pass,Pass,Pass,Fail,Pass,Yes
+7.69,5,4,7,12,Beginner,Beginner,Basic,4,5,6,Mechanical,174,34,Pass,Fail,Fail,Pass,Fail,Fail,Yes
+8.57,3,1,2,19,Beginner,Intermediate,None,2,13,3,IT,184,167,Fail,Pass,Pass,Pass,Pass,Pass,Yes
+8.77,6,4,1,13,Intermediate,Intermediate,Professional,1,0,9,Computer Science,117,487,Pass,Pass,Pass,Pass,Pass,Pass,No
+9.85,1,1,4,14,Beginner,None,Expert,7,3,1,Civil,174,114,Pass,Pass,Pass,Pass,Pass,Pass,No
+7.32,4,3,6,20,Advanced,Intermediate,None,2,5,4,Civil,351,292,Pass,Pass,Fail,Pass,Pass,Pass,No
+6.18,9,8,1,6,Intermediate,Advanced,Expert,10,10,4,Electronics,153,82,Pass,Fail,Pass,Fail,Pass,Fail,No
+7.79,6,9,3,5,Beginner,None,Professional,9,14,4,Electronics,191,91,Pass,Fail,Fail,Pass,Pass,Fail,No
+6.55,2,4,5,15,Advanced,Advanced,None,7,13,6,Electronics,310,492,Fail,Fail,Pass,Pass,Fail,Fail,No
+9.38,6,9,1,1,Advanced,Intermediate,Professional,6,6,6,Civil,189,51,Fail,Pass,Pass,Fail,Pass,Fail,No
+8.37,10,3,8,10,Advanced,Beginner,Basic,0,14,6,Mechanical,185,13,Pass,Pass,Pass,Fail,Fail,Fail,No
+8.92,7,6,3,19,Beginner,Beginner,Professional,1,4,6,Mechanical,334,464,Fail,Pass,Pass,Fail,Pass,Fail,Yes
+9.96,6,7,1,3,Intermediate,Advanced,Basic,6,0,1,Civil,28,262,Fail,Pass,Fail,Pass,Pass,Fail,Yes
+7.78,1,6,4,8,Intermediate,None,Expert,10,8,5,Computer Science,233,397,Fail,Pass,Pass,Pass,Pass,Fail,Yes
+9.12,4,7,6,11,Intermediate,Intermediate,None,3,6,9,Civil,463,172,Pass,Fail,Pass,Fail,Pass,Pass,No
+7.5,1,8,4,11,Advanced,Beginner,Professional,1,1,1,Computer Science,240,345,Pass,Pass,Pass,Pass,Pass,Pass,No
+9.62,8,4,8,9,Intermediate,Advanced,Expert,1,11,9,Computer Science,180,278,Fail,Pass,Pass,Fail,Pass,Fail,Yes
+8.83,10,4,10,13,Beginner,Advanced,Basic,4,3,9,Civil,389,297,Pass,Pass,Pass,Fail,Pass,Pass,Yes
+6.99,6,9,10,3,Beginner,Advanced,Professional,5,13,4,Electronics,70,299,Fail,Pass,Pass,Fail,Pass,Pass,Yes
+7.74,4,8,9,3,Beginner,None,Expert,10,4,7,IT,392,394,Pass,Pass,Fail,Pass,Pass,Fail,No
+7.6,1,7,2,11,Intermediate,Advanced,Expert,3,1,1,Computer Science,28,248,Pass,Pass,Fail,Pass,Pass,Fail,No
+7.65,2,5,2,17,Advanced,Intermediate,None,10,9,6,IT,55,70,Pass,Pass,Pass,Fail,Pass,Fail,No
+7.66,1,6,8,18,Advanced,Advanced,Expert,6,5,8,Mechanical,342,431,Pass,Pass,Fail,Fail,Pass,Pass,Yes
+7.55,8,7,6,15,Beginner,Intermediate,Expert,1,4,9,Computer Science,75,407,Fail,Fail,Pass,Fail,Pass,Fail,Yes
+7.2,10,2,2,9,Beginner,Advanced,Professional,3,15,1,Electronics,365,173,Pass,Pass,Fail,Pass,Pass,Fail,Yes
+6.47,9,7,6,16,Intermediate,Intermediate,Professional,9,15,7,Mechanical,27,54,Fail,Pass,Fail,Pass,Fail,Pass,Yes
+6.66,1,7,6,6,Intermediate,Beginner,Basic,2,15,10,Electronics,204,189,Pass,Fail,Pass,Fail,Fail,Fail,Yes
+7.25,5,3,10,13,Beginner,Beginner,Basic,8,1,5,Mechanical,69,76,Pass,Fail,Fail,Pass,Fail,Fail,Yes
+6.44,5,5,9,2,Advanced,Beginner,Basic,1,7,3,Computer Science,275,241,Pass,Pass,Pass,Fail,Pass,Pass,No
+7.76,1,3,7,3,Advanced,Intermediate,Expert,9,11,3,IT,484,3,Pass,Pass,Fail,Pass,Pass,Fail,Yes
+9.94,10,7,6,12,Intermediate,Beginner,Basic,1,3,9,Computer Science,305,25,Fail,Pass,Fail,Fail,Pass,Fail,No
+7.47,7,3,7,3,Advanced,Intermediate,Expert,7,8,2,IT,267,483,Pass,Pass,Fail,Pass,Pass,Fail,Yes
+8.43,10,7,8,11,Intermediate,None,None,4,5,7,Civil,384,495,Pass,Fail,Pass,Fail,Pass,Fail,No
+8.77,6,1,4,4,Beginner,Intermediate,Professional,5,9,1,Mechanical,189,53,Pass,Pass,Pass,Pass,Pass,Pass,No

@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Placement Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #444;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+        label {
+            margin: 10px 0 5px;
+            font-weight: bold;
+        }
+        input, select, button {
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        button {
+            background-color: #007BFF;
+            color: white;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .result {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 18px;
+            font-weight: bold;
+        }
+    </style>
+    <script>
+        function applyLabelEncoding() {
+            const encodings = {
+                Project_Level: { Beginner: 0, Intermediate: 1, Advanced: 2 },
+                Internship_Level: { None: 0, Beginner: 1, Intermediate: 2, Advanced: 3 },
+                Certification_Level: { None: 0, Basic: 1, Professional: 2, Expert: 3 },
+                Field_of_Study: { "Computer Science": 0, IT: 1, Electronics: 2, Mechanical: 3, Civil: 4 }
+            };
+
+            const fields = ['Project_Level', 'Internship_Level', 'Certification_Level', 'Field_of_Study'];
+
+            fields.forEach(field => {
+                const selectElement = document.querySelector(`select[name="${field}"]`);
+                const encodedOutput = document.getElementById(`${field}_encoded`);
+
+                if (selectElement && encodedOutput) {
+                    const value = selectElement.value;
+                    const encodedValue = encodings[field][value];
+                    encodedOutput.textContent = `Encoded Value: ${encodedValue}`;
+                }
+            });
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>Placement Prediction</h1>
+        <form action="/predict" method="post">
+            <label for="CPI">CPI:</label>
+            <input type="text" name="CPI" required>
+
+            <label for="English_Speaking_Skills">English Speaking Skills (1-10):</label>
+            <input type="number" name="English_Speaking_Skills" min="1" max="10" required>
+
+            <label for="Grammar_Skills">Grammar Skills (1-10):</label>
+            <input type="number" name="Grammar_Skills" min="1" max="10" required>
+
+            <label for="Coding_Skills">Coding Skills (1-10):</label>
+            <input type="number" name="Coding_Skills" min="1" max="10" required>
+
+            <label for="Total_No_of_Projects">Total Number of Projects:</label>
+            <input type="number" name="Total_No_of_Projects" min="0" required>
+
+            <label for="Project_Level">Project Level:</label>
+            <select name="Project_Level" onchange="applyLabelEncoding()" required>
+                <option value="Beginner">Beginner</option>
+                <option value="Intermediate">Intermediate</option>
+                <option value="Advanced">Advanced</option>
+            </select>
+            <div id="Project_Level_encoded">Encoded Value: 0</div>
+
+            <label for="Internship_Level">Internship Level:</label>
+            <select name="Internship_Level" onchange="applyLabelEncoding()" required>
+                <option value="None">None</option>
+                <option value="Beginner">Beginner</option>
+                <option value="Intermediate">Intermediate</option>
+                <option value="Advanced">Advanced</option>
+            </select>
+            <div id="Internship_Level_encoded">Encoded Value: 0</div>
+
+            <label for="Certification_Level">Certification Level:</label>
+            <select name="Certification_Level" onchange="applyLabelEncoding()" required>
+                <option value="None">None</option>
+                <option value="Basic">Basic</option>
+                <option value="Professional">Professional</option>
+                <option value="Expert">Expert</option>
+            </select>
+            <div id="Certification_Level_encoded">Encoded Value: 0</div>
+
+            <label for="Total_No_of_Internships">Total Number of Internships:</label>
+            <input type="number" name="Total_No_of_Internships" min="0" required>
+
+            <label for="Total_No_of_Certifications">Total Number of Certifications:</label>
+            <input type="number" name="Total_No_of_Certifications" min="0" required>
+
+            <label for="Programming_Skills">Programming Skills (1-10):</label>
+            <input type="number" name="Programming_Skills" min="1" max="10" required>
+
+            <label for="Field_of_Study">Field of Study:</label>
+            <select name="Field_of_Study" onchange="applyLabelEncoding()" required>
+                <option value="Computer Science">Computer Science</option>
+                <option value="IT">IT</option>
+                <option value="Electronics">Electronics</option>
+                <option value="Mechanical">Mechanical</option>
+                <option value="Civil">Civil</option>
+            </select>
+            <div id="Field_of_Study_encoded">Encoded Value: 0</div>
+
+            <label for="Total_No_of_LeetCode_Questions_Solved">Total Number of LeetCode Questions Solved:</label>
+            <input type="number" name="Total_No_of_LeetCode_Questions_Solved" min="0" required>
+
+            <label for="Total_No_of_Questions_Other_Platform">Total Number of Questions Solved on Other Platforms:</label>
+            <input type="number" name="Total_No_of_Questions_Other_Platform" min="0" required>
+
+            <button type="submit">Predict</button>
+        </form>
+        {% if prediction_text %}
+        <div class="result">{{ prediction_text }}</div>
+        {% endif %}
+    </div>
+</body>
+</html>
